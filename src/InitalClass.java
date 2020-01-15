@@ -16,5 +16,6 @@ public class InitalClass {
 	public static void NewFeatureMethod() {
 		
 		System.out.println("Building new management feature!");
+		System.out.println("Normal Commit");
 	}
 }
